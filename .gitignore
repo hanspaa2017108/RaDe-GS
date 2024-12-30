@@ -1,6 +1,7 @@
 *.pyc
 .vscode
 output*/
+outputs/
 build
 __pycache__
 tensorboard_3d
@@ -11,5 +12,6 @@ scene/__pycache__
 utils/__pycache__
 *.egg-info
 debug*
-dtu_eval/Offical_DTU_Dataset
+dtu_eval/
 *.sh
+submodules/
